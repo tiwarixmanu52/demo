@@ -1,3 +1,3 @@
 # demo
 This is my first git repository<br>
-Author- Manu Tiwari
+Author- Manu Tiwari(NIT Jaipur)
